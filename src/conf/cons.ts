@@ -1,0 +1,1 @@
+export const knownHostString = "asjdhaksd, asdjkhasdjas, asdkjlasd | jkhasdkjasd"
